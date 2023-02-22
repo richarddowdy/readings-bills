@@ -1,6 +1,6 @@
 ## Setup
 
-Clone this repo locally then navigate to the project locally.
+Clone this repo locally then navigate to the project in your terminal.
 
 - Once in the project directory run `yarn install`
 - After everything has installed you can run `yarn start`
